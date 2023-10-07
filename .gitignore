@@ -1,0 +1,8 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.enc
+.env
+Screenshot 2023-12-16 154004
+streamlit-rec
